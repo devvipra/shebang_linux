@@ -1,5 +1,5 @@
 # shebang_linux
-#What is Shebang?
+# What is Shebang?
 The shebang has a special meaning when it is used in the very first line of the script.It is the combination of the # (pound key) and ! (exclamation mark). It is used to specify the interpreter with which the given script will be run by default.
 For Example: If the first line of script is:
 
